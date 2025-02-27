@@ -43,3 +43,13 @@ Source code can be found at [samgeo_worldview_evaluation.ipynb]("https://github.
 Below are sample visualizations of **WorldView-3 images**, their corresponding **SAMGeo predictions**, and **Ground Gruth LULC masks**.
 
 !["Legend"](https://github.com/canmike/samgeo_worldview/blob/main/figures/legend.png)
+
+!["fig1](https://github.com/canmike/samgeo_worldview/blob/main/figures/fig1.png)
+
+!["fig2](https://github.com/canmike/samgeo_worldview/blob/main/figures/fig2.png)
+
+!["fig3](https://github.com/canmike/samgeo_worldview/blob/main/figures/fig3.png)
+
+!["fig4](https://github.com/canmike/samgeo_worldview/blob/main/figures/fig4.png)
+
+!["fig5](https://github.com/canmike/samgeo_worldview/blob/main/figures/fig5.png)
