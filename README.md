@@ -4,7 +4,7 @@
 
 This repository contains an evaluation of **SAMGeo** using **WorldView-3** satellite imagery and **Land Use/Land Cover (LULC)** classes. The study aims to analyze how well **SAMGeo**, a geospatial adaptation of the **Segment Anything Model (SAM)**, performs on high-resolution remote sensing data.
 
-Source code can be found at [samgeo_worldview_evaluation.ipynb](https://github.com/canmike/samgeo_worldview/blob/main/samgeo_worldview_evaluation.ipynb)
+Source code can be found at [samgeo_worldview_evaluation.ipynb](https://github.com/canmike/samgeo_worldview/blob/main/samgeo_worldview_evaluation.ipynb) and [samgeos_visualization.ipynb](https://github.com/canmike/samgeo_worldview/blob/main/samgeos_visualization.ipynb)
 
 ## Methodology
 
